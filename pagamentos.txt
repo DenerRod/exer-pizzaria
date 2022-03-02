@@ -1,2 +1,3 @@
 pagar $1000 - caixa 
 pagar $1300 - funcionarios
+Todos os pagamentos foram realizado. by: proprietario
