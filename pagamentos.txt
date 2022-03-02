@@ -1,0 +1,2 @@
+pagar $1000 - caixa 
+pagar $1300 - funcionarios
